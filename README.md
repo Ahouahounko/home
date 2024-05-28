@@ -12,7 +12,7 @@ I specialize in Machine learning, Deep learning, Natural Language Processing, an
 ## 🏢 **Professional Experience**
 
 ### 📊 Data Scientist/Generative AI, Sanctuaire/Startup, Paris, FR
-*January 2024 - March 2024*
+*January 2024 - April 2024*
 - Implemented open-source large language models (LLMs) such as Hugging Face for tailored business applications.
 - Enhanced LLM capabilities using Retrieval Augmented Generation (RAG).
 - Developed sophisticated algorithms for data matching and ranking.
